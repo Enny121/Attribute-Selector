@@ -1,0 +1,6 @@
+input[type=text] {
+    border: blue solid 3px;
+}
+input[type=password] {
+    border: red solid 3px;
+}
